@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment Variables
+.env
+
+# Build Output
+dist/
+build/
+public/
+
+# Dependency directories
+jspm_packages/
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# React
+# Build directory
+build/
+
+# Production
+production/
